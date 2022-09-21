@@ -3,6 +3,7 @@ using allspice.Repositories;
 
 namespace allspice.Services
 {
+    
     public class AccountService
     {
         private readonly AccountsRepository _repo;
